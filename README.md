@@ -4,4 +4,4 @@ This is my portfolio and its made with flutter framework and also it is a respon
 This is my portfolio site and its hosted by firebase.
  https://pugazhenthi-portfolio.web.app
  
- * for better experience please seeing that stuff in mobile view.
+ * for better experience please see this stuff in mobile view.
